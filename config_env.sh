@@ -6,3 +6,4 @@ pip install scikit-learn
 pip install Pillow
 pip install protobuf==3.20.3
 pip install pytz
+pip install matplotlib
