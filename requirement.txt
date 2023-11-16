@@ -1,0 +1,9 @@
+tensorflow
+# tensorflow-hub
+jupyter
+scikit-learn
+Pillow
+protobuf==3.20.3
+pytz
+matplotlib
+lightgbm
